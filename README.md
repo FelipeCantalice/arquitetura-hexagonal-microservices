@@ -1,1 +1,11 @@
-arquitetura hexagonal microservices
+# arquitetura hexagonal microservices
+
+
+### Application core
+
+
+### Port
+
+
+### Adapter
+
